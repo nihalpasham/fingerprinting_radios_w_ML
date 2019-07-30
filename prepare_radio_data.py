@@ -7,7 +7,7 @@ sdr.sample_rate = 1.92e6
 sdr.gain = 'auto'
     #sdr.set_bandwidth = 8000
     #sdr.set_freq_correction = 30
-center_freq = (28.8e6, 70e6)
+center_freq = (,)
 
 # list devices for identification
 devices = ['radio1', 'radio2']
